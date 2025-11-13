@@ -26,9 +26,10 @@ npx expo start
 5. Pronto! O app roda no seu celular
 
 ## Prints do app rodando
-![OtimFac (4)](https://github.com/user-attachments/assets/d8959395-69c4-4ccd-ac9f-0f2d89e18e3b)
-![OtimFac (3)](https://github.com/user-attachments/assets/2505171b-0097-43cd-9f61-48c5cfc7acc5)
-![OtimFac (2)](https://github.com/user-attachments/assets/fed57724-10ee-4bb8-b239-f434cb74d745)
-![OtimFac (1)](https://github.com/user-attachments/assets/064783d3-811c-44c0-8469-19041a045523)
+![OtimFac (4)](https://github.com/user-attachments/assets/4d889888-f57c-4f9f-ab9a-d5b9d573ec14)
+![OtimFac (3)](https://github.com/user-attachments/assets/841be2ed-6304-4c90-8262-b1d82da8e0da)
+![OtimFac (2)](https://github.com/user-attachments/assets/d3be99fb-07d1-449c-b3b3-1e073b444232)
+![OtimFac (1)](https://github.com/user-attachments/assets/39aaafa4-7e1b-41e3-8e70-bbc142ab4b5a)
+
 
 Feito por Victor Coimbra - novembro 2025
